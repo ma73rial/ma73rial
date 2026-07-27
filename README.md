@@ -1,17 +1,21 @@
 ![Cover](assets/cover.png)
 
-# Hello!
+# Hello.
 
-I'm Maximilian, an aspiring developer (and student) with a passion for anything with an open-source license or more than three billion parameters. 
+I'm Max. I build things.
 
-I'm also a bit of a designer and tinkerer, but I mostly stick to good old fashioned syntaxical work.
+Most of my time goes into AI/ML, devtools, open source software, and whatever technical rabbit hole caught my attention on Youtube. I like making software that's fast, meaningful, and a <del>little</del> _lot_ different.
 
-Feel free to explore my projects or go on your way.
+Outside of code, I probably spend way much time polishing UX and obsessing over tiny details that most people won't notice. Is that a flaw? I'm not sure yet.
 
--M7
+Currently building **MonadLabs**. Its an AI-native document platform focused on reducing token usage and hallucinations. (85+ file types to a single source of truth. Painful.) 
 
-<p align="right">
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ma73rial&layout=donut&langs_count=5&hide_values=true&theme=tokyonight">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ma73rial&layout=donut&langs_count=5&hide_values=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-</p>
+Feel free to explore my projects. Maybe you'll find something you like.
+
+\- @ma73rial
+\
+\
+\
+\
+\
+_Last Updated: Jul 28, '26_
